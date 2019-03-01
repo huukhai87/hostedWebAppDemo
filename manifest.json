@@ -1,6 +1,6 @@
 {
-	"name": "Cordova hosted web app",
-	"short_name": "hostedWebApp",
+	"name": "Geveret web app",
+	"short_name": "geveretWebApp",
 	"start_url": "https://www.devgeveret.betanetqa.me/",
 	"mjs_api_access": [
 		{ "match": "*", "access": "cordova", "platform": "ios,windows,android" }
